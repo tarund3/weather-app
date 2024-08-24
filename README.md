@@ -10,3 +10,7 @@ Technologies Used
 - CSS
 - JavaScript
 - OpenWeatherMapAPI
+
+
+https://github.com/user-attachments/assets/16479891-ad89-4455-a8a1-cb8953816369
+
